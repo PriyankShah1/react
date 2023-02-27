@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Reactweb/static/css/main.193b50ca.css",
+    "main.js": "/Reactweb/static/js/main.debd4972.js",
+    "index.html": "/Reactweb/index.html",
+    "static/media/search.svg": "/Reactweb/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.193b50ca.css.map": "/Reactweb/static/css/main.193b50ca.css.map",
+    "main.debd4972.js.map": "/Reactweb/static/js/main.debd4972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193b50ca.css",
+    "static/js/main.debd4972.js"
+  ]
+}
